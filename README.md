@@ -4,12 +4,16 @@ I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate 
 
 ## 🌐 Socials:
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pawasthi063)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pradeep-gif-hub/)[
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi)![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/awasthi063)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pawasthi063@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pradeep-gif-hub/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/awasthi063)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pawasthi063@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/918127136711)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit)
+ 
 
 
 
