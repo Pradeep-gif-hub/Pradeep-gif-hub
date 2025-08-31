@@ -3,7 +3,12 @@ I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit) [![CodeForces](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://codeforces.com/profile/pawasthi063)
+[![LeetCode](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://leetcode.com/u/pradeep-gif-hub/)
+
+
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
