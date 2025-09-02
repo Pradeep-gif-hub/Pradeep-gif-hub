@@ -26,17 +26,17 @@
 
 # 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="50"/>
   <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="50"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="50"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" height="40"/>
   <br>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="40"/>
