@@ -1,5 +1,12 @@
-# 💫 About Me:
-I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate on software testing.<br>I am looking for help with developing a chrome extension that can find me better<br>Ask me about automation Testing<br>Fun Fact I am lazy but perhaps Smart.....
+# 💫 YOOO YOOO Finally been arrested..: 
+
+## 🌍 Sooo Welcome to My Little Corner of GitHub  
+
+🎓 Surviving B.Tech @ NITJ (ICE branch vibes 🎛️)  
+🔍 Currently: cooking up a **Chrome Extension**  
+💬 Talk to me about: *Automation Testing* (yes, I break things for fun 😎)  
+🤝 Collab energy: **always on** 🚀  
+⚡ Fun Fact: Too lazy to do it twice → so I automate it once.  
 
 
 ## 🌐 Socials:
@@ -16,18 +23,18 @@ I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate 
  
 
 
-
-
-
-
-
 # 💻 Tech Stack:
+<div align="center">
+
+### 🚀 Tech Stack
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
@@ -36,6 +43,8 @@ I am currently pursuing my B.tech at NITJ in ICE<br>I am looking to collaborate 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=Figma&logoColor=white)
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
