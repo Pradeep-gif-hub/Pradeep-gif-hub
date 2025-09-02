@@ -41,6 +41,11 @@
   <br>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=Figma&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Tkinter%20GUI-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="40"/>
+
+
+
 </p>
 
 
