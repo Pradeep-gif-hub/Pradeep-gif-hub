@@ -1,6 +1,6 @@
-# 💫 YOOO yooo Seems like you got me.. !! 
+# 💫 "Yoooo 🚨 Am I being stalked rn??… Nvm, carry on with your postmodern drama 🤷‍♂️😂"
 
-## 🌍 Sooo Welcome to My Little Corner of GitHub  
+## 🌍 Welcome to My Little Corner of GitHub  
 
 🎓 Surviving B.Tech @ NITJ (ICE branch vibes 🎛️)  
 🔍 Currently: cooking up a **Chrome Extension**  
