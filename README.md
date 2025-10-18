@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="40"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" height="40"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/vite-%236646FF.svg?style=plastic&logo=vite&logoColor=white" height="40"/>
+
 
 
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
