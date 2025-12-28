@@ -12,8 +12,10 @@
 ## 🌐 Socials:
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pawasthi063)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pradeep-gif-hub/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pawasthi063)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/awasthi063)
+[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?&logo=Hashnode&logoColor=white)](https://hashnode.com/@pradeepawasthi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pawasthi063@gmail.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18)
@@ -78,4 +80,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Pradeep-gif-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
