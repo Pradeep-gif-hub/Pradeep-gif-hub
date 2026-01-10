@@ -1,7 +1,7 @@
 # 💫 "Yoooo 🚨 Am I being stalked rn??… Nvm, carry on with your postmodern drama 🤷‍♂️😂"
 
 ## 🌍 Welcome to My Little Corner of GitHub  
-
+<img src="https://komarev.com/ghpvc/?username=Pradeep-gif-hub&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" height="30"/>
 🎓 Surviving B.Tech @ NITJ (ICE branch vibes 🎛️)  
 🔍 Currently: cooking up a **Chrome Extension**  
 💬 Talk to me about: *Automation Testing* (yes, I break things for fun 😎)  
@@ -28,8 +28,6 @@
 
 # 💻 Tech Stack:
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=Pradeep-gif-hub&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" height="30"/>
-
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="40"/>
