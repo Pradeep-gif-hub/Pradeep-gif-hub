@@ -53,6 +53,10 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Multer-FF6F00?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white" height="40"/>
+
+<img src="https://img.shields.io/badge/bcrypt-4A90E2?style=plastic&logo=lock&logoColor=white" height="40"/>
+
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" height="40"/>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="40"/>
