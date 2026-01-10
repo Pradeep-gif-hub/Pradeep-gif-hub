@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" height="40"/>
-   <br>
+  
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Multer-FF6F00?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white" height="40"/>
