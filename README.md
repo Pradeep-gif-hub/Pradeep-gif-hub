@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Thunder%20Client-430098?style=plastic&logo=thunderclient&logoColor=white" height="40"/>
+ <br>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" height="40"/>
@@ -46,11 +47,11 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" height="40"/>
 
-  <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" height="40"/>
+   <br>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Multer-FF6F00?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white" height="40"/>
@@ -58,17 +59,21 @@
 <img src="https://img.shields.io/badge/bcrypt-4A90E2?style=plastic&logo=lock&logoColor=white" height="40"/>
 
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Moon%20Modeler-4B3F72?style=plastic&logo=databricks&logoColor=white" height="40"/>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" height="40"/>
-  <br>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Command%20Prompt-000000?style=plastic&logo=windows-terminal&logoColor=white" height="40"/>
+
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=Figma&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Tkinter%20GUI-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=plastic&logo=excalidraw&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/StackBlitz-1269D3?style=plastic&logo=stackblitz&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Tinkercad-1477FF?style=plastic&logo=autodesk&logoColor=white" height="40"/>
 
 
 
