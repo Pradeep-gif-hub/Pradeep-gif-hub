@@ -41,6 +41,11 @@
 <img src="https://img.shields.io/badge/Thunder%20Client-430098?style=plastic&logo=thunderclient&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" height="40"/>
+
   <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="40"/>
