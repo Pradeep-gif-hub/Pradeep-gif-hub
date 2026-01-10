@@ -39,6 +39,20 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" height="40"/>
   <img src="https://img.shields.io/badge/Thunder%20Client-430098?style=plastic&logo=thunderclient&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="40"/>
+
+
+
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Multer-FF6F00?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" height="40"/>
+
+
+
+
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height="40"/>
 
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="40"/>
