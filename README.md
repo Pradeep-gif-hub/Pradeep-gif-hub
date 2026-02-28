@@ -1,101 +1,122 @@
-# 💫 "Yoooo 🚨 Am I being stalked rn??… Nvm, carry on with your postmodern drama 🤷‍♂️😂"
+<h1 align="center">Hi 👋, I'm Pradeep Awasthi</h1>
+<h3 align="center">Instrumentation & Control Engineering Student | Developer | Open Source Enthusiast</h3>
 
-## 🌍 Welcome to My Little Corner of GitHub  
-<img src="https://komarev.com/ghpvc/?username=Pradeep-gif-hub&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile views" height="30"/>
-🎓 Surviving B.Tech @ NITJ (ICE branch vibes 🎛️)  
-🔍 Currently: cooking up a **Chrome Extension**  
-💬 Talk to me about: *Automation Testing* (yes, I break things for fun 😎)  
-🤝 Collab energy: **always on** 🚀  
-⚡ Fun Fact: Too lazy to do it twice → so I automate it once.  
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pradeep-gif-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
+---
 
-## 🌐 Socials:
-[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/pawasthi063)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pradeep-gif-hub/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/pawasthi063)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PradeepkumarAwasthi)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/awasthi063)
-[![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?&logo=Hashnode&logoColor=white)](https://hashnode.com/@pradeepawasthi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pawasthi063@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pawsthi063)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p.awasthi_18)
+## 👨‍💻 About Me
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/918127136711)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pawasthi063)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Cricpradedit)
- 
+🎓 B.Tech — Instrumentation & Control Engineering  
+🏫 Dr. B. R. Ambedkar National Institute of Technology, Jalandhar  
 
+⚙️ Passionate about:
+- Software Development
+- Embedded Systems & Electronics
+- Automation & AI Applications
+- Full-Stack Web Development
 
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" height="40"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" height="40"/>
-  <img src="https://img.shields.io/badge/vite-%236646FF.svg?style=plastic&logo=vite&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Thunder%20Client-430098?style=plastic&logo=thunderclient&logoColor=white" height="40"/>
- <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=python&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" height="40"/>
+🚀 Currently Working On:
+- Chrome Extension Development
+- Automation Tools & Web Applications
 
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" height="40"/>
-  
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=plastic&logo=cloudinary&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Multer-FF6F00?style=plastic&logo=nodedotjs&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white" height="40"/>
+🤝 Open to:
+- Open Source Collaboration  
+- Technical Projects  
+- Development Opportunities  
 
-<img src="https://img.shields.io/badge/bcrypt-4A90E2?style=plastic&logo=lock&logoColor=white" height="40"/>
+---
 
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=prettier&logoColor=black" height="40"/>
-<img src="https://img.shields.io/badge/Moon%20Modeler-4B3F72?style=plastic&logo=databricks&logoColor=white" height="40"/>
+## 🌐 Connect With Me
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Command%20Prompt-000000?style=plastic&logo=windows-terminal&logoColor=white" height="40"/>
+<p align="center">
 
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=Figma&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Tkinter%20GUI-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="40"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Excalidraw-6965DB?style=plastic&logo=excalidraw&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/StackBlitz-1269D3?style=plastic&logo=stackblitz&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=arduino&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Tinkercad-1477FF?style=plastic&logo=autodesk&logoColor=white" height="40"/>
+<a href="https://linkedin.com/in/PradeepkumarAwasthi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:pawasthi063@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://codeforces.com/profile/pawasthi063">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+</a>
 
+<a href="https://leetcode.com/u/pradeep-gif-hub/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/pawasthi063">
+<img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/awasthi063">
+<img src="https://img.shields.io/badge/Portfolio-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
 
 </p>
 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-gif-hub&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 🧰 Languages & Tools
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pradeep-gif-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,vite,mongodb,mysql,git,github,vscode,figma,arduino"/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pradeep-gif-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pradeep-gif-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📊 GitHub Statistics
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pradeep-gif-hub&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-gif-hub&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-gif-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pradeep-gif-hub&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Pradeep-gif-hub&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## ✍️ Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Pradeep-gif-hub&icon=0&color=0"/>
+
+</p>
+
+---
+
+⭐ *Building, Learning and Contributing Every Day*
