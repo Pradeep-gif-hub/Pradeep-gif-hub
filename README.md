@@ -58,15 +58,14 @@
 
 <p align="center">
 
-<p align="center">
 <div align="center">
 
   <!-- 🔥 Core Stack -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,vite,mongodb,mysql,postgres,git,github,vscode,arduino,raspberrypi,notion&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,vite,mongodb,mysql,postgres,git,github,vscode,arduino,raspberrypi,aws,nginx,linux,notion&perline=10" />
 
   <br><br>
 
-  <!-- ⚡ Clean Grid Layout -->
+  <!-- ⚡ Advanced Tools & Services -->
   <table>
     <tr>
       <td align="center">
@@ -79,44 +78,57 @@
         <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
       </td>
     </tr>
+<tr>
+  <td align="center">
+    <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  </td>
+
+  <td align="center">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </td>
+</tr>
     <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge&logo=gmail&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white" />
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=mailchimp&logoColor=white" />
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/PDFKit-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
       </td>
-      <td></td>
     </tr>
   </table>
 
 </div>
 
 </p>
-
-
 
 ---
 ## < GitHub Statistics />
