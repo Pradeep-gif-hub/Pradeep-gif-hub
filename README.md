@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/PradeepkumarAwasthi">
+<a href="https://www.linkedin.com/in/pradeep-kumar-awasthi/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
