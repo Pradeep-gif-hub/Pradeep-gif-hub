@@ -1,20 +1,17 @@
-# Pradeep Awasthi
+# Pradeep Kumar Awasthi
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pradeep-kumar-awasthi/" target="_blank">
+  <a href="https://linktr.ee/awasthi063" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E660?style=flat-square&logo=linktree&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/pradeep-kumar-awasthi-9313a2280/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.awasthi.tech" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-awasthi.tech-black?style=flat-square">
+  <a href="https://www.awasthi.tech/gallery" target="_blank">
+    <img alt="Gallery" src="https://img.shields.io/badge/Gallery-awasthi.tech%2Fgallery-6f42c1?style=flat-square">
   </a>
-  <a href="https://leetcode.com/u/pradeep-gif-hub/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
-  </a>
-  <a href="https://codeforces.com/profile/pawasthi063" target="_blank">
-    <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white">
-  </a>
-  <a href="mailto:pawasthi063@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <a href="https://www.awasthi.tech/projects" target="_blank">
+    <img alt="Projects" src="https://img.shields.io/badge/Projects-awasthi.tech%2Fprojects-2962FF?style=flat-square">
   </a>
 </p>
 
@@ -41,4 +38,4 @@ C · C++ · Python · TypeScript · JavaScript · React · Node.js · Express ·
 ---
 
 **Find me:**  
-[awasthi.tech](https://www.awasthi.tech) · [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-awasthi/) · [pawasthi063@gmail.com](mailto:pawasthi063@gmail.com) · [LeetCode](https://leetcode.com/u/pradeep-gif-hub/) · [Codeforces](https://codeforces.com/profile/pawasthi063) · [X](https://x.com/pawsthi063)
+[Linktree](https://linktr.ee/awasthi063) · [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-awasthi-9313a2280/) · [Gallery](https://www.awasthi.tech/gallery) · [Projects](https://www.awasthi.tech/projects)
