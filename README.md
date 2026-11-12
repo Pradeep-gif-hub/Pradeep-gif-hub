@@ -1,159 +1,27 @@
-<h1 align="center">Hi 👋, I'm Pradeep Awasthi</h1>
-<h3 align="center">Instrumentation & Control Engineering Student | Developer | Open Source Enthusiast</h3>
+# Pradeep Awasthi
 
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
+B.Tech, Instrumentation and Control Engineering, [NIT Jalandhar](https://www.nitj.ac.in).
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pradeep-gif-hub&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+I build web apps, systems code, and hardware that has to do something physical. The public repos below are the ones worth opening.
 
-## 👨‍💻 About Me
+[awasthi.tech](https://www.awasthi.tech) · [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-awasthi/) · [pawasthi063@gmail.com](mailto:pawasthi063@gmail.com)
 
-• B.Tech (Instrumentation & Control Engineering) — NIT Jalandhar  
-• Developer focused on Software, Embedded Systems & Full-Stack Web  
-• Building practical hardware + software solutions  
-• Exploring automation tools and real-world engineering projects  
-• Open to collaboration, open source & development opportunities
-## < Connect With Me />
+## Work
 
-<p align="center">
+[**Portfolio**](https://github.com/Pradeep-gif-hub/Portfolio-2.0) — Personal site at [awasthi.tech](https://www.awasthi.tech). React, TypeScript, MongoDB, and an admin panel so the content changes without a redeploy.
 
-<a href="https://www.linkedin.com/in/pradeep-kumar-awasthi/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[**ForgeDB**](https://github.com/Pradeep-gif-hub/ForgeDB) — Transactional storage engine in C++20. Fixed-size pages, a buffer pool, a B+ tree, write-ahead logging, and ARIES recovery.
 
-<a href="mailto:pawasthi063@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[**MedTech**](https://github.com/Pradeep-gif-hub/MedTech) — Telemedicine kiosk. A clinic books a remote consult and keeps records and prescriptions in one place.
 
-<a href="https://codeforces.com/profile/pawasthi063">
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[**Waste sorter**](https://github.com/Pradeep-gif-hub/R-Pi5-PiCam-Wastage-Segeration) — Raspberry Pi 5 and a camera. MobileNetV2 classifies waste on the device, and servos drop it in the right bin.
 
-<a href="https://leetcode.com/u/pradeep-gif-hub/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[**EkClick**](https://github.com/Pradeep-gif-hub/EkClick-Deploy) — VS Code extension. Deploy a project to Vercel from the editor.
 
-<a href="https://www.geeksforgeeks.org/profile/pawasthi063">
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+[**ROS 2 Humble**](https://github.com/Pradeep-gif-hub/ROS2_HUMBLE) — Notes and small implementations: nodes, topics, services, and how a robot graph is wired.
 
-<a href="https://x.com/pawsthi063">
-<img src="https://cdn.simpleicons.org/x/ffffff" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+## Stack
 
-<a href="https://instagram.com/p.awasthi_18">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+C++ · Python · TypeScript · React · Node.js · MongoDB · PostgreSQL · Linux · Arduino · Raspberry Pi
 
-<a href="https://youtube.com/@Cricpradedit">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="50"/>
-</a>
-
-</p>
-
-## < Languages & Tools />
-
-<p align="center">
-
-<div align="center">
-
-  <!-- 🔥 Core Stack -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,express,html,css,tailwind,vite,mongodb,mysql,postgres,git,github,vscode,arduino,raspberrypi,aws,nginx,linux,notion&perline=10" />
-
-  <br><br>
-
-  <!-- ⚡ Advanced Tools & Services -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-    </tr>
-<tr>
-  <td align="center">
-    <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </td>
-
-  <td align="center">
-    <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  </td>
-
-  <td align="center">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  </td>
-</tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge&logo=gmail&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Google_OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=maildotru&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=mailchimp&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/PDFKit-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-</p>
-
----
-## < GitHub Statistics />
-
-<p align="center">
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-gif-hub&theme=tokyonight&hide_border=true"/>
-<br/>
-</p>
-
-## < GitHub Metrics />
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pradeep-gif-hub&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradeep-gif-hub&theme=tokyonight"/>
-</p>
-
----
-## < Contribution Activity />
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradeep-gif-hub&theme=tokyo-night&hide_border=true"/>
-</p>
-
-
----
-
-⭐ Contributing Today for a Better Tomorrow..!!
+[LeetCode](https://leetcode.com/u/pradeep-gif-hub/) · [Codeforces](https://codeforces.com/profile/pawasthi063) · [X](https://x.com/pawsthi063)
